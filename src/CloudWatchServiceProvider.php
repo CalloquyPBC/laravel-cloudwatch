@@ -1,13 +1,13 @@
 <?php
 
-namespace Dneey\CloudWatch;
+namespace CalloquyPBC\CloudWatch;
 
 use Illuminate\Support\ServiceProvider;
 
 class CloudWatchServiceProvider extends ServiceProvider
 {
-    public function boot()
-    { }
+    public function boot() { }
+
     public function register()
     {
         $this->mergeConfigFrom(

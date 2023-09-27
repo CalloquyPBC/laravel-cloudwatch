@@ -7,7 +7,7 @@ return [
 
         'driver' => 'custom',
 
-        'via' => \Dneey\CloudWatch\CloudWatchLoggerFactory::class,
+        'via' => \CalloquyPBC\CloudWatch\CloudWatchLoggerFactory::class,
 
         /*
          * Your amazon cloudwatch credentials.
