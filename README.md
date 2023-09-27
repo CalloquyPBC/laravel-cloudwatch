@@ -4,8 +4,8 @@ Implementation of [maxbanton AWS handler for monolog](https://github.com/maxbant
 
 ## Requirements
 
-- PHP ^7.2.0
-- Laravel ^6.0
+- PHP ^8.1.0
+- Laravel ^10.0
 
 ## Features
 
@@ -17,7 +17,7 @@ Implementation of [maxbanton AWS handler for monolog](https://github.com/maxbant
 Install the latest version with [Composer](https://getcomposer.org/) by running
 
 ```bash
-$ composer require dneey/laravel-cloudwatch
+$ composer require calloquypbc/laravel-cloudwatch
 ```
 
 ## Basic Usage
