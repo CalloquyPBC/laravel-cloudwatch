@@ -1,6 +1,6 @@
 # AWS CloudWatch Logger for Laravel
 
-Implementation of [maxbanton AWS handler for monolog](https://github.com/maxbanton/cwh) in [Laravel](https://github.com/laravel/laravel).
+Implementation of [phpnexus AWS handler for monolog](https://github.com/phpnexus/cwh) in [Laravel](https://github.com/laravel/laravel).
 
 ## Requirements
 
